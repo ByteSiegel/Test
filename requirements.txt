@@ -1,4 +1,3 @@
-azure-data-tables
 python-barcode
 Pillow
 reportlab
